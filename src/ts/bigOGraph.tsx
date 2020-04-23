@@ -94,7 +94,7 @@ export default class BigOGraph extends React.Component<BigOGraphProperties> {
 						callbacks: {
 							label: (item) => {
 								console.log(item)
-								return `${(item.yLabel / 1000).toFixed(2)} seconds,\n ${(item.index + 1) * 100000} runs`
+								return `${(item.yLabel / 1000).toFixed(2)} seconds,\n ${(item.index + 1) * 100000} elements`
 							},
 							title: (item) => {
 								return dataSets[item[0].datasetIndex].label
