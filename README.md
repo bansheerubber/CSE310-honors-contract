@@ -3,4 +3,4 @@ This program demonstrates the various running times of sorts using WebGL to disp
 Below are screenshots of the website:
 
 ![frog incorporated](https://bansheerubber.com/honorscontract/demo.png)
-![frog incorporated](https://bansheerubber.com/honorscontract/demo2.png)
+![frog incorporated](https://bansheerubber.com/honorscontract/demo3.png)
